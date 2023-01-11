@@ -7,6 +7,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 6px;
+    
   }
   
   .loginParentDiv .input {
@@ -17,7 +18,7 @@
   }
   
   .loginParentDiv button {
-    width: 100%;
+    width: 94%;
     height: 48px;
     /* border-color: transparent; */
     background-color: #002f34;
@@ -34,5 +35,10 @@
     display: flex;
     justify-content: center;
     cursor: pointer;
+    color: black;
+  }
+
+  .paddingDiv{
+    padding-left: 14px;
   }
   

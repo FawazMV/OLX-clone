@@ -114,6 +114,14 @@
 
 .loginPage a{
   text-decoration: none;
+  
+}
+.loginPage{
+  cursor: pointer;
+}
+
+.logout{
+  cursor: pointer;
 }
 
 .sellMenu {

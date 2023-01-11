@@ -4,6 +4,7 @@
 .bannerParentDiv .bannerChildDiv {
 }
 .bannerParentDiv .bannerChildDiv .menuBar {
+  justify-content: space-around;
   display: flex;
   padding: 10px 16px 10px 16px;
 }
